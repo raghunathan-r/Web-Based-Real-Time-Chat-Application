@@ -5,6 +5,7 @@
 
 [📄 The project report - Draft 1.0](https://docs.google.com/document/d/16mkBMKKUd6ZFZHbSzKmK1vNy65DAtYQrOKhz6weyPMM/edit?usp=sharing)
 
+[🌐 Link to the chat web site](https://raghunathan-r.github.io/Web-Based-Real-Time-Chat-Application/)
 
 # Tasks to complete
 - [ ] Answer this question? How do we satisfy this - " The project should have intelligence logic part rather than the basic CRUD "
