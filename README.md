@@ -18,4 +18,4 @@
 ## Authors
 
 - [@satwikdas](https://github.com/satwikdas)
-- [@raghunathanr](https://www.github.com/raghunathan-r
+- [@raghunathanr](https://www.github.com/raghunathan-r)
