@@ -128,4 +128,99 @@ table {
 }
 
 /* my styles -satwik das*/
+html{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Syne Mono', monospace;
+}
 
+body {
+
+    font-family: 'Syne Mono', 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f4ff7e;
+    font-size: 1em;
+
+}
+
+h1{ text-align: center;
+    padding: 10px 15px;
+    color: #f1ff5c;
+    display: block;
+    font-size: 2.5em;
+    font-weight: 700;
+}
+.panel{
+
+    background-color: #151b29;
+    border-radius: 10px;
+    padding: 20px 25px;
+    width: 100%;
+    max-width: 960px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+
+}
+.animation{
+  margin-bottom: 25px  ;
+  max-width: 100%;
+}
+
+.login{
+    margin-bottom: 25px;
+        max-width: 100%;
+}
+
+input{
+    font-family: 'Roboto';
+    font-weight: 200;
+    font-size: 15px;
+    margin-bottom: 25px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    transition: 0.15s; ;
+
+}
+
+input:focus{
+    
+    font-size: 1.02em;
+    border-radius: 5px;
+    border: 2px solid #f1ff5c;
+
+}
+
+img{
+    size: 1em;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+ button {
+     
+     background: none;
+     font-size: 0.7em;
+     font-weight: 600;
+     color: #ffa26f;
+     border: 2px solid;
+     padding: 1em 2em;
+     transition: all 0.2s;
+
+ }
+
+ button:hover {
+
+     color: floralwhite;
+     border-color: #f1ff5c;
+     transform: 0, -2px;
+     box-shadow: 0em 0.5em 0.5em -0.4em #f1ff5c;
+     transform: translateY(-0.27em);
+     cursor: pointer;
+ }
+
+ 
